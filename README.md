@@ -1,1 +1,1 @@
-# PicList Photos
+# PicList Images
